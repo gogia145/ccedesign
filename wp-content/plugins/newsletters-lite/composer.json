@@ -1,0 +1,12 @@
+{
+    "require": {
+        "mailgun/mailgun-php": "^2.4",
+        "pelago/emogrifier": "^2.0",
+        "mobiledetect/mobiledetectlib": "^2.8",
+        "php-imap/php-imap": "~2.0",
+        "leafo/scssphp": "^0.6.6",
+        "guzzlehttp/guzzle": "^6.2",
+        "php-http/guzzle6-adapter": "^1.1",
+        "sparkpost/sparkpost": "^2.1"
+    }
+}

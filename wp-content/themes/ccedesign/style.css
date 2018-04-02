@@ -1,0 +1,542 @@
+/*
+
+Theme Name: CCE Design
+Theme URI: 
+Author: Vikas gautam
+Author URI:
+
+*/
+
+
+.tickets_form
+{
+	background: lightblue;
+	padding: 1%;
+	border-radius: 6px;
+}
+.tickets_form #gform_submit_button_1 , .form_list .gform_button
+{
+	background:#3BBC99;
+	border: 0;
+	padding: 2% 5% 2% 5%;
+	color: white;
+	border-radius: 6px;
+}
+
+.form_list
+{
+	background: lightblue;
+	padding: 1%;
+	border-radius: 6px;
+	margin:1% 0 1% 0;
+}
+
+.form_list input[type="text"] , .form_list select
+{
+ width:100% !important;	
+}
+
+.form_list .gform_title
+{
+	text-align:center;
+}
+
+.tickets_form ul li 
+{
+  width:50%;float:left;	clear: none !important;
+}
+
+.tickets_form ul li input , .tickets_form ul li select , #field_1_3 , #field_1_9 , #field_1_15 , #field_1_18 , #field_1_19, #field_1_26
+{
+	width:100% !important;
+}
+#input_1_20_4_label
+{
+	font-size:12px;
+}
+.metaslider-57 , #metaslider_container_57 , #metaslider_57 , .metaslider-80 , #metaslider_container_80 , #metaslider_80
+{
+	height:130px;	
+}
+
+.page_title
+{
+ 	color: #3BBC99;
+    border-bottom: 1px solid gray;
+    padding-bottom: 2%;
+}
+
+.metaslider .slides img
+{
+	max-height: 130px !important;
+}
+#myNavbar
+{
+width: 100%;
+}
+  .top_menu
+  {
+  display: inline-block;position: inherit;height: 100px;width: 100%;
+  }
+  .navbar a
+  {
+    color:black !important;  
+	text-transform:uppercase;
+	font-size:15px !important;
+	font-weight: bold !important;
+	padding-top: 5px !important;
+    padding-bottom: 5px !important;
+	padding-left: 14px !important;
+    padding-right: 14px !important; 
+  }
+  ul.nav
+  {
+  border-top: 1px solid lightgray;
+  padding-top: 1%;
+  }
+  ul.nav li
+  {
+   border-right:1px solid black;
+  }
+  
+  .navbar .sub-menu
+  {
+	display:none;  
+	padding: 0% 0% 0% 0% !important;
+	margin:0px !important;
+	overflow:hidden;
+	position: absolute;
+	z-index:2; 
+	background:white;
+  }
+  
+  .navbar .sub-menu li
+  {
+	 
+	 padding:2% 1% 2% 1% ;
+	
+  }
+  .navbar .sub-menu
+  {
+	  width: 115%;
+  }
+  
+  .navbar .sub-menu li a
+  {
+	   font-size:14px !important;
+	   padding: 0px 5px 0 5px !important;
+  }
+  
+  #bwg_standart_thumbnails_0 .bwg_lightbox_0
+  {
+	  width:30%;
+	  display:inline-block;
+	  margin-left: 2%;
+	  margin-top:2%;
+  }
+  
+
+  
+  #bwg_standart_thumbnails_0 .bwg_lightbox_0 img ,    #bwg_standart_thumbnails_0 .bwg_lightbox_0 .bwg_standart_thumb_0 , .bwg_standart_thumb_spun1_0 , .bwg_standart_thumb_spun2_0
+  {
+	  width:100% !important;
+	  margin:0px !important;
+  }
+   ul.nav li:hover  .sub-menu
+   {
+	   display:block;
+   }
+  .top_bar_text
+  {
+  float:right;
+  }
+  .footer-line
+  {
+  color:black !important;
+  }
+  
+  .top_logo img
+  {
+   width:100%;
+   padding:2%;
+  }
+  .top_bar_text
+  {
+  padding:2%;
+  }
+  .banner_bottom_info
+  {
+   font-size: 18px;
+   width: 70%;
+  }
+  .gallery1
+  {
+  display: inline-block;
+  padding: 0%;
+  }
+  .gallery1 li
+  {
+    width:32%;
+	float:left;
+	margin-left:1%;
+  }
+  .gallery1 li img
+  {
+   width:100%;
+  }
+  #myCarousel .carousel , #myCarousel .carousel-inner , #myCarousel .carousel-inner .item , #myCarousel .carousel-inner .item img
+  {
+   height:100vh;
+  }
+  .glyphicon-chevron-right::before , .glyphicon-chevron-left::before , .glyphicon-chevron-down::before, .glyphicon-chevron-up::before
+  {
+   content:none;
+  }
+  
+  .glyphicon.glyphicon-chevron-up {
+    margin-left: 50px;
+    margin-right: 31px;
+    margin-top: 0px;
+}
+#carousel-example-vertical .carousel-control
+{
+color:black;
+}
+  .carousel-control
+  {
+  z-index:1;
+  }
+  
+  .side_country
+  {
+    display: inline-block;
+	padding-bottom: 3%;
+	border-bottom: 2px solid black;
+  }
+  .side_country li
+  {
+    width: auto;
+	float: left;
+	list-style: inside;
+	padding: 1%;
+	font-weight: bold;
+	font-size: 20px;
+  }
+  
+  .institutional_partner img  ,  .shortlisted_companies img
+  {
+    width:100%;
+	max-height:200px;
+	border:1px solid lightgray;
+  }
+  .institutional_partner h3 , .shortlisted_companies h3
+  {
+   color:rgba(12, 184, 182, 0.91);
+   text-align:center;
+   font-size:25px;
+  }
+  .home_ticket_box
+  {
+   padding:2% 0 2% 0;
+   border:2px solid black;
+   border-right:0px;
+   border-left:0px;
+   }
+ .home_ticket_box .home_ticket_box_inner  
+ {
+ padding: 5% 5% 4% 5%;
+ background:#1B2B4C;
+ color:white;
+ font-weight:bold;
+ }
+ 
+ .home_video
+ {
+  border-bottom:2px solid black;
+  padding:2% 0 2% 0;
+ }
+ .home_video iframe
+ {
+   width:48%;
+   margin-left:1%;
+   float:left;
+   height:250px;
+ }
+ 
+ .home_newsletter
+ {
+  padding:2% 0 2% 0;
+ }
+.home_newsletter .texttype
+{
+padding: 10px;
+width: 40%;
+}
+
+
+.home_footer_quate
+{
+    background: #3BBC98;
+	padding: 3%;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom:3%;
+}
+  .footer
+  {
+  background:#1B2B4C;
+  padding: 2% 5% 2% 5%;
+  }
+  
+  .footer h4
+  {
+   color:white;margin-top:0px;
+  }
+  
+  .footer-navigation a
+    {
+		 color: white;  
+	}
+  .footer-navigation li
+	{
+		list-style: url(img/arrow.png);color:white; margin-bottom:3%;
+	}
+	
+	.footer1, .footer2,.footer3
+	{
+	border-right: 2px solid white;
+	}
+	
+	.footer1, .footer2,.footer3 , .footer4
+	{
+	  min-height:300px;
+	}
+	
+  .footer_media_partner	
+	{
+		display: inline-block;
+		margin-left: 0px;
+		padding-left: 0px;
+	}
+	.footer_media_partner li
+	{
+       width:48%; float:left;
+       margin:1% 1% 1% 1% ;	   
+	}
+	.footer_media_partner li img
+	{
+	 width: 100%;
+     height: 45px;
+	}
+	.footer_social
+	{
+	margin-top: 10%;
+	border-top: 1px solid white;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top: 10%;
+	text-align: center;
+	}
+	.footer_social img
+	{
+	width: 48px;
+	float: left;
+	margin-left: 2%;
+	 
+	}
+	
+	.footer4 p
+	{
+	line-height: 5px;
+    font-size: 13px;
+	}
+	
+	
+	
+    .container_box {
+	  position: relative;
+	  width: 28%;
+	  float: left;
+	  margin: 0.5%;
+	  cursor: pointer;
+	}
+
+	.image {
+	  display: block;
+	  width: 100%;
+	  height: auto;
+	}
+
+	.overlay {
+	  position: absolute;
+	  bottom: 0;
+	  left: 0;
+	  right: 0;
+	  background-color: rgb(21, 82, 135,.7);
+	  overflow: hidden;
+	  width: 0;
+	  height: 100%;
+	  transition: .5s ease;
+	}
+
+	.container_box:hover .overlay {
+	  width: 100%;
+	  text-align:center;
+	  cursor
+	}
+
+	.text {
+	  white-space:pre-wrap; 
+	  color: white;
+	  font-size: 20px;
+	  position: absolute;
+	  overflow: hidden;
+	  top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  -ms-transform: translate(-50%, -50%);
+	}
+
+	.mymodel
+	{
+		margin-top:5%;
+	}
+	.mymodel .close
+	{
+		font-size:30px; 
+		color:red;
+		opacity:1 !important;
+	}
+		.container_box {
+	  position: relative;
+	  width: 30%;
+	  float: left;
+	  margin: 0.5%;
+	  cursor: pointer;
+	}
+
+	.image {
+	  display: block;
+	  width: 100%;
+	  height: auto;
+	}
+
+	.overlay {
+	  position: absolute;
+	  bottom: 0;
+	  left: 0;
+	  right: 0;
+	  background-color: rgb(21, 82, 135,.7);
+	  overflow: hidden;
+	  width: 0;
+	  height: 100%;
+	  transition: .5s ease;
+	}
+
+	.container_box:hover .overlay {
+	  width: 100%;
+	  text-align:center;
+	  cursor
+	}
+
+	.text {
+	  white-space: pre-wrap; 
+	  color: white;
+	  font-size: 20px;
+	  position: absolute;
+	  overflow: hidden;
+	  top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  -ms-transform: translate(-50%, -50%);
+	  width: 100%;
+	}
+
+	.mymodel
+	{
+		margin-top:5%;
+	}
+	.mymodel .close
+	{
+		font-size:30px; 
+		color:red;
+		opacity:1 !important;
+	}
+	
+	.winner_box
+	{
+		width:48%;
+		display:inline-block;
+		margin:1%;
+		padding:1%;
+		border:1px solid gray;
+		border-radius:6px;
+		text-align:center;
+		float:left;
+		height:400px;
+		overflow:hidden;
+	}
+	
+	
+	.winner_box img
+	{
+		width:100%;
+		max-height: 300px;
+	}
+	
+	
+@media only screen and (max-width: 1200px) {
+
+	.top_bar_text .text-right
+	{
+	text-align:center;
+	}
+
+	.banner-info , .banner-text h1
+	{
+	 font-size:15px;
+	 padding-bottom: 0px;
+	 margin-top: 0px;
+	margin-bottom: 0px;
+	overflow: hidden;
+	}
+	.blank
+	{
+	display:none;
+	}
+	.banner_bottom_info {
+    font-size: 14px;
+    width: 88%;
+    }
+	#banner
+	{
+	min-height:auto;
+	}
+	.home_ticket_box .home_ticket_box_inner
+	{
+	 text-align:center;
+	}
+	.home_ticket_box .btn-appoint , .home_newsletter .texttype , .home_newsletter .btn-appoint
+	{
+	width:100%;
+	}
+	.home_video
+	{
+	display:inline-block;
+	}
+	.home_video iframe
+	{
+	width:100%;
+	margin-bottom:1%;
+	}
+	.footer_social
+	{
+	display:inline-block;
+	}
+	.footer_social img
+	{
+	margin-left:3px;
+	}
+
+}
